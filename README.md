@@ -22,10 +22,6 @@ git clone https://github.com/aryan2202/Smart-brain-frontend.git
 
 Navigate to the root directory of the project:
 
-```
-cd smartbrain_front
-```
-
 ### Install the required dependencies:
 
 ```
