@@ -66,6 +66,7 @@ class Register extends React.Component{
                         type="text" 
                         name="name"  
                         id="name"
+                        required={true}
                         onChange={this.onNameChange}/>
                         <label className="db fw6 lh-copy f4" htmlFor="email-address">Email</label>
                         <input 
@@ -73,6 +74,7 @@ class Register extends React.Component{
                         type="email" 
                         name="email-address"  
                         id="email-address"
+                        required={true}
                         onChange={this.onEmailChange}/>
                     </div>
                     <div className="mv3">
@@ -82,6 +84,7 @@ class Register extends React.Component{
                         type="password" 
                         name="password"  
                         id="password"
+                        required={true}
                         onChange={this.onPasswordChange}/>
                     </div>
                     </fieldset>
