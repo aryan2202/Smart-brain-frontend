@@ -17,7 +17,7 @@ You will need to have Node.js and npm (Node Package Manager) installed on your c
 Clone the repository to your local machine:
 
 ```
-git clone https://github.com/kaivalya9936/smartbrain_front.git
+git clone https://github.com/aryan2202/Smart-brain-frontend.git
 ```
 
 Navigate to the root directory of the project:
